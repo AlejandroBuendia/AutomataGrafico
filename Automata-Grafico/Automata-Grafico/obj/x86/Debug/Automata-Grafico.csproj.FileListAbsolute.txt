@@ -1,0 +1,17 @@
+C:\Users\AR\Desktop\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata_Grafico.Form1.resources
+C:\Users\AR\Desktop\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata_Grafico.Properties.Resources.resources
+C:\Users\AR\Desktop\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata-Grafico.csproj.GenerateResource.Cache
+C:\Users\AR\Desktop\Automata-Grafico\Automata-Grafico\bin\Debug\Automata-Grafico.exe
+C:\Users\AR\Desktop\Automata-Grafico\Automata-Grafico\bin\Debug\Automata-Grafico.pdb
+C:\Users\AR\Desktop\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata-Grafico.exe
+C:\Users\AR\Desktop\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata-Grafico.pdb
+C:\Users\AR\Desktop\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata-Grafico.csprojResolveAssemblyReference.cache
+D:\Sistemas Computacionales\2019-2\Automatas\Automata-Grafico\Automata-Grafico\bin\Debug\Automata-Grafico.exe
+D:\Sistemas Computacionales\2019-2\Automatas\Automata-Grafico\Automata-Grafico\bin\Debug\Automata-Grafico.pdb
+D:\Sistemas Computacionales\2019-2\Automatas\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata-Grafico.csprojAssemblyReference.cache
+D:\Sistemas Computacionales\2019-2\Automatas\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata_Grafico.Form1.resources
+D:\Sistemas Computacionales\2019-2\Automatas\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata_Grafico.Properties.Resources.resources
+D:\Sistemas Computacionales\2019-2\Automatas\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata-Grafico.csproj.GenerateResource.cache
+D:\Sistemas Computacionales\2019-2\Automatas\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata-Grafico.csproj.CoreCompileInputs.cache
+D:\Sistemas Computacionales\2019-2\Automatas\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata-Grafico.exe
+D:\Sistemas Computacionales\2019-2\Automatas\Automata-Grafico\Automata-Grafico\obj\x86\Debug\Automata-Grafico.pdb
